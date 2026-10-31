@@ -1,0 +1,27 @@
+
+# LangChain
+langchain
+langchain-core
+langchain-community
+
+# LLM integrations
+langchain-google-genai
+langchain-openai
+
+# AI providers
+google-generativeai
+openai
+
+# Environment variables
+python-dotenv
+
+# HTTP requests
+requests
+httpx
+
+# Data validation and utilities
+pydantic
+tiktoken
+
+# Jupyter support (optional)
+ipykernel
